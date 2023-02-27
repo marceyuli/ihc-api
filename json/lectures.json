@@ -228,5 +228,215 @@
         ]
       }
     ]
+  },
+  {
+    "nombre": "Preparacion y evaluacion de proyectos",
+    "sigla": "ECO449",
+    "semestre": 8,
+    "paralelos": [
+      {
+        "grupo": "SA",
+        "docente": "Gutierrez Bruno Katime Esther",
+        "cupos": 10,
+        "horario": [
+          {
+            "dia": "lu",
+            "hora_inicio": "20:30",
+            "hora_fin": "22:45"
+          },
+          {
+            "dia": "mie",
+            "hora_inicio": "20:30",
+            "hora_fin": "22:45"
+          }
+        ]
+      },
+      {
+        "grupo": "SB",
+        "docente": "Perez Ferreira Ubaldo",
+        "cupos": 15,
+        "horario": [
+          {
+            "dia": "lu",
+            "hora_inicio": "07:00",
+            "hora_fin": "09:15"
+          },
+          {
+            "dia": "mie",
+            "hora_inicio": "07:00",
+            "hora_fin": "09:15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Criptografia y Seguridad",
+    "sigla": "ELC107",
+    "semestre": 8,
+    "paralelos": [
+      {
+        "grupo": "SA",
+        "docente": "Perez Delgadillo Shirley",
+        "cupos": 14,
+        "horario": [
+          {
+            "dia": "mar",
+            "hora_inicio": "19:00",
+            "hora_fin": "20:30"
+          },
+          {
+            "dia": "jue",
+            "hora_inicio": "19:00",
+            "hora_fin": "20:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Ingeniera de Software I",
+    "sigla": "INF422",
+    "semestre": 8,
+    "paralelos": [
+      {
+        "grupo": "SB",
+        "docente": "Martinez Canedo Rolando Antoni",
+        "cupos": 4,
+        "horario": [
+          {
+            "dia": "lu",
+            "hora_inicio": "15:15",
+            "hora_fin": "16:45"
+          },
+          {
+            "dia": "mie",
+            "hora_inicio": "15:15",
+            "hora_fin": "16:45"
+          },
+          {
+            "dia": "vie",
+            "hora_inicio": "15:15",
+            "hora_fin": "16:45"
+          }
+        ]
+      },
+      {
+        "grupo": "SC",
+        "docente": "Martinez Canedo Rolando Antoni",
+        "cupos": 4,
+        "horario": [
+          {
+            "dia": "mar",
+            "hora_inicio": "16:00",
+            "hora_fin": "18:15"
+          },
+          {
+            "dia": "jue",
+            "hora_inicio": "16:00",
+            "hora_fin": "18:15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Redes II",
+    "sigla": "INF423",
+    "semestre": 8,
+    "paralelos": [
+      {
+        "grupo": "SB",
+        "docente": "Gonzales Sandoval Jorge Antoni",
+        "cupos": 4,
+        "horario": [
+          {
+            "dia": "mar",
+            "hora_inicio": "07:00",
+            "hora_fin": "09:15"
+          },
+          {
+            "dia": "jue",
+            "hora_inicio": "07:00",
+            "hora_fin": "09:15"
+          }
+        ]
+      },
+      {
+        "grupo": "SC",
+        "docente": "Gonzales Sandoval Jorge Antoni",
+        "cupos": 19,
+        "horario": [
+          {
+            "dia": "lu",
+            "hora_inicio": "18:15",
+            "hora_fin": "19:45"
+          },
+          {
+            "dia": "mie",
+            "hora_inicio": "18:15",
+            "hora_fin": "19:45"
+          },
+          {
+            "dia": "vie",
+            "hora_inicio": "18:15",
+            "hora_fin": "19:45"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Sistemas Expertos",
+    "sigla": "INF428",
+    "semestre": 8,
+    "paralelos": [
+      {
+        "grupo": "SB",
+        "docente": "Barroso Viruez Gino",
+        "cupos": 25,
+        "horario": [
+          {
+            "dia": "lu",
+            "hora_inicio": "10:00",
+            "hora_fin": "11:30"
+          },
+          {
+            "dia": "mie",
+            "hora_inicio": "10:00",
+            "hora_fin": "11:30"
+          },
+          {
+            "dia": "vie",
+            "hora_inicio": "10:00",
+            "hora_fin": "11:30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Sistemas de Informacion Geografica",
+    "sigla": "INF442",
+    "semestre": 8,
+    "paralelos": [
+      {
+        "grupo": "SA",
+        "docente": "Perez Ferreira Ubaldo",
+        "cupos": 25,
+        "horario": [
+          {
+            "dia": "lu",
+            "hora_inicio": "18:15",
+            "hora_fin": "20:30"
+          },
+          {
+            "dia": "mie",
+            "hora_inicio": "18:15",
+            "hora_fin": "20:30"
+          }
+        ]
+      }
+    ]
   }
 ]
