@@ -1,12 +1,15 @@
 [
   {
-    "nombre": "Investigacion Operativa II",
+    "nombre": "Investigación Operativa II",
     "sigla": "INF418",
     "semestre": 7,
     "paralelos": [
       {
+        "nombre": "Investigación Operativa II",
+        "sigla": "INF418",
+        "semestre": 7,
         "grupo": "SB",
-        "docente": "Davalos Sanchez de Mancilla Pi",
+        "docente": "Davalos Sanchez de Mancilla Pilar",
         "cupos": 10,
         "horario": [
           {
@@ -22,8 +25,11 @@
         ]
       },
       {
+        "nombre": "Investigación Operativa II",
+        "sigla": "INF418",
+        "semestre": 7,
         "grupo": "SC",
-        "docente": "Sachez Herbas Jose Gabriel",
+        "docente": "Sanchez Herbas Jose Gabriel",
         "cupos": 3,
         "horario": [
           {
@@ -51,6 +57,9 @@
     "semestre": 7,
     "paralelos": [
       {
+        "nombre": "Redes 1",
+        "sigla": "INF433",
+        "semestre": 7,
         "grupo": "SB",
         "docente": "Monrroy Dipp Victor Fernando",
         "cupos": 4,
@@ -68,6 +77,9 @@
         ]
       },
       {
+        "nombre": "Redes 1",
+        "sigla": "INF433",
+        "semestre": 7,
         "grupo": "SA",
         "docente": "Gonzales Sandoval Jorge Antonio",
         "cupos": 1,
@@ -90,6 +102,9 @@
         ]
       },
       {
+        "nombre": "Redes 1",
+        "sigla": "INF433",
+        "semestre": 7,
         "grupo": "SC",
         "docente": "Villagomez Melgar Junior",
         "cupos": 20,
@@ -119,6 +134,9 @@
     "semestre": 7,
     "paralelos": [
       {
+        "nombre": "Sistemas Operativos 2",
+        "sigla": "INF413",
+        "semestre": 7,
         "grupo": "SA",
         "docente": "Sanchez Velasco Enrique",
         "cupos": 40,
@@ -141,6 +159,9 @@
         ]
       },
       {
+        "nombre": "Sistemas Operativos 2",
+        "sigla": "INF413",
+        "semestre": 7,
         "grupo": "SB",
         "docente": "Calle Terrazas Edwin",
         "cupos": 14,
@@ -165,6 +186,9 @@
     "semestre": 7,
     "paralelos": [
       {
+        "nombre": "Sistemas de Información 2",
+        "sigla": "INF412",
+        "semestre": 7,
         "grupo": "SB",
         "docente": "Martinez Canedo Rolando Antonio",
         "cupos": 12,
@@ -187,6 +211,9 @@
         ]
       },
       {
+        "nombre": "Sistemas de Información 2",
+        "sigla": "INF412",
+        "semestre": 7,
         "grupo": "SA",
         "docente": "Garzon Cuellar Angelica",
         "cupos": 30,
@@ -211,6 +238,9 @@
     "semestre": 7,
     "paralelos": [
       {
+        "nombre": "Inteligencia Artificial",
+        "sigla": "INF418",
+        "semestre": 7,
         "grupo": "SA",
         "docente": "Vargas Yapura Edwin",
         "cupos": 2,
@@ -230,11 +260,14 @@
     ]
   },
   {
-    "nombre": "Preparacion y evaluacion de proyectos",
+    "nombre": "Preparación y evaluación de proyectos",
     "sigla": "ECO449",
     "semestre": 8,
     "paralelos": [
       {
+        "nombre": "Preparación y evaluación de proyectos",
+        "sigla": "ECO449",
+        "semestre": 8,
         "grupo": "SA",
         "docente": "Gutierrez Bruno Katime Esther",
         "cupos": 10,
@@ -252,6 +285,9 @@
         ]
       },
       {
+        "nombre": "Preparación y evaluación de proyectos",
+        "sigla": "ECO449",
+        "semestre": 8,
         "grupo": "SB",
         "docente": "Perez Ferreira Ubaldo",
         "cupos": 15,
@@ -271,11 +307,14 @@
     ]
   },
   {
-    "nombre": "Criptografia y Seguridad",
+    "nombre": "Criptografía y Seguridad",
     "sigla": "ELC107",
     "semestre": 8,
     "paralelos": [
       {
+        "nombre": "Criptografía y Seguridad",
+        "sigla": "ELC107",
+        "semestre": 8,
         "grupo": "SA",
         "docente": "Perez Delgadillo Shirley",
         "cupos": 14,
@@ -295,13 +334,16 @@
     ]
   },
   {
-    "nombre": "Ingeniera de Software I",
+    "nombre": "Ingeniería de Software I",
     "sigla": "INF422",
     "semestre": 8,
     "paralelos": [
       {
+        "nombre": "Ingeniería de Software I",
+        "sigla": "INF422",
+        "semestre": 8,
         "grupo": "SB",
-        "docente": "Martinez Canedo Rolando Antoni",
+        "docente": "Martinez Canedo Rolando Antonio",
         "cupos": 4,
         "horario": [
           {
@@ -322,8 +364,11 @@
         ]
       },
       {
+        "nombre": "Ingeniería de Software I",
+        "sigla": "INF422",
+        "semestre": 8,
         "grupo": "SC",
-        "docente": "Martinez Canedo Rolando Antoni",
+        "docente": "Martinez Canedo Rolando Antonio",
         "cupos": 4,
         "horario": [
           {
@@ -346,8 +391,11 @@
     "semestre": 8,
     "paralelos": [
       {
+        "nombre": "Redes II",
+        "sigla": "INF423",
+        "semestre": 8,
         "grupo": "SB",
-        "docente": "Gonzales Sandoval Jorge Antoni",
+        "docente": "Gonzales Sandoval Jorge Antonio",
         "cupos": 4,
         "horario": [
           {
@@ -363,8 +411,11 @@
         ]
       },
       {
+        "nombre": "Redes II",
+        "sigla": "INF423",
+        "semestre": 8,
         "grupo": "SC",
-        "docente": "Gonzales Sandoval Jorge Antoni",
+        "docente": "Gonzales Sandoval Jorge Antonio",
         "cupos": 19,
         "horario": [
           {
@@ -392,6 +443,9 @@
     "semestre": 8,
     "paralelos": [
       {
+        "nombre": "Sistemas Expertos",
+        "sigla": "INF428",
+        "semestre": 8,
         "grupo": "SB",
         "docente": "Barroso Viruez Gino",
         "cupos": 25,
@@ -416,11 +470,14 @@
     ]
   },
   {
-    "nombre": "Sistemas de Informacion Geografica",
+    "nombre": "Sistemas de Información Geográfica",
     "sigla": "INF442",
     "semestre": 8,
     "paralelos": [
       {
+        "nombre": "Sistemas de Información Geográfica",
+        "sigla": "INF442",
+        "semestre": 8,
         "grupo": "SA",
         "docente": "Perez Ferreira Ubaldo",
         "cupos": 25,

@@ -17,5 +17,14 @@ app.get('/lectures', (req, res) => {
     res.send(materias);
 });
 
+app.get('/lectures/parallels', (req, res) => {
+    let parallels = lectures.map(item => {
+        return {
+            paralelos: item.paralelos
+        }
+    })
+    res.send(parallels);
+})
+
 
 app.listen(puerto, () => console.log(`Listening port ${puerto}...`));
