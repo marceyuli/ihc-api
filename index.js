@@ -1,4 +1,6 @@
 const lectures = require('./json/lectures.json');
+const enrollments = require('./json/lecturesEnrolled.json');
+const lecturesWithEnrollments = require('./json/lecturesWithEnrollment.json');
 const express = require('express'),
     path = require("path"),
     app = express(),
@@ -24,6 +26,14 @@ app.get('/lectures/parallels', (req, res) => {
         }
     })
     res.send(parallels);
+})
+
+app.get('/lectures/enrollment', (req, res) => {
+    res.send(enrollments);
+})
+
+app.get('/lectures/lecturesWithEnrollment', (req, res) => {
+    res.send(lecturesWithEnrollments);
 })
 
 

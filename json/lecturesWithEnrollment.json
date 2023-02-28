@@ -1,0 +1,96 @@
+[
+    {
+        "id": 2,
+        "nombre": "Ingeniería de Software I",
+        "sigla": "INF422",
+        "semestre": 8,
+        "paralelos": [
+            {
+                "nombre": "Ingeniería de Software I",
+                "sigla": "INF422",
+                "semestre": 8,
+                "grupo": "SB",
+                "docente": "Martinez Canedo Rolando Antonio",
+                "cupos": 4,
+                "horario": [
+                    {
+                        "dia": "lu",
+                        "hora_inicio": "15:15",
+                        "hora_fin": "16:45"
+                    },
+                    {
+                        "dia": "mie",
+                        "hora_inicio": "15:15",
+                        "hora_fin": "16:45"
+                    },
+                    {
+                        "dia": "vie",
+                        "hora_inicio": "15:15",
+                        "hora_fin": "16:45"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Sistemas Expertos",
+        "sigla": "INF428",
+        "semestre": 8,
+        "paralelos": [
+            {
+                "nombre": "Sistemas Expertos",
+                "sigla": "INF428",
+                "semestre": 8,
+                "grupo": "SB",
+                "docente": "Barroso Viruez Gino",
+                "cupos": 25,
+                "horario": [
+                    {
+                        "dia": "lu",
+                        "hora_inicio": "10:00",
+                        "hora_fin": "11:30"
+                    },
+                    {
+                        "dia": "mie",
+                        "hora_inicio": "10:00",
+                        "hora_fin": "11:30"
+                    },
+                    {
+                        "dia": "vie",
+                        "hora_inicio": "10:00",
+                        "hora_fin": "11:30"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Sistemas de Información Geográfica",
+        "sigla": "INF442",
+        "semestre": 8,
+        "paralelos": [
+            {
+                "nombre": "Sistemas de Información Geográfica",
+                "sigla": "INF442",
+                "semestre": 8,
+                "grupo": "SA",
+                "docente": "Perez Ferreira Ubaldo",
+                "cupos": 25,
+                "horario": [
+                    {
+                        "dia": "lu",
+                        "hora_inicio": "18:15",
+                        "hora_fin": "20:30"
+                    },
+                    {
+                        "dia": "mie",
+                        "hora_inicio": "18:15",
+                        "hora_fin": "20:30"
+                    }
+                ]
+            }
+        ]
+    }
+]
